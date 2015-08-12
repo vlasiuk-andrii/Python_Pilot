@@ -1,3 +1,3 @@
-print('Hello world')
-print('Today is a grate day')
-print("New change in code")
+a = input('What is your name?\n')
+print('Hello, '+a+'!')
+
