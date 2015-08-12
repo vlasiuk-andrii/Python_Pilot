@@ -1,3 +1,4 @@
 print('Hello world')
 print('Today is a grate day')
-print("New change in code")
+a = 0
+b = 1
